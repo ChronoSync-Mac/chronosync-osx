@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/chronosync">  
+<a href="https://app-setup-osx.github.io/.github/chronosync">  
 <img src="https://img.shields.io/badge/💻_Get_ChronoSync-ff6600?style=for-the-badge&logo=apple" alt="Get ChronoSync">  
 </a>  
 </div>  
